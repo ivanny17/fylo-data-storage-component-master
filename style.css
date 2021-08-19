@@ -23,7 +23,7 @@
 
 body {
     width: 100%;
-    height: 700px;
+    height: 800px;
     background: var(--Very-Dark-Blue);
     position: relative;
 }
@@ -55,7 +55,7 @@ body {
 
 .container__one {
     width: 100%;
-    height: 400px;
+    height: 500px;
     max-width: 1440px;
 
     display: grid;
@@ -103,7 +103,7 @@ body {
 /*----content----*/
 
 .container__two {
-    height: 400px;
+    height: 500px;
     display: grid;
     align-items: end;
 }
